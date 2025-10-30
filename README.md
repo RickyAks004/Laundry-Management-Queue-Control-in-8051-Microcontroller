@@ -119,5 +119,6 @@ This project is for academic and non-commercial use. Feel free to fork and build
 ## 📬 Contact
 
 For queries or collaboration:
-📧 [your-email@example.com]  
+📧 [ayushkumaricky3351@gmail.com]  
 📍 NIT Rourkela, Odisha, India
+

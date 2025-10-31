@@ -31,7 +31,7 @@ In hostel settings with limited washing machines and large student populations, 
 
 | Component          | Description                                |
 |--------------------|--------------------------------------------|
-| **Microcontroller**| AT89S52 (8051 MCU)                         |
+| **Microcontroller**| AT89S52 (8052 MCU)                         |
 | **Programming**    | 8051 Assembly                      |
 | **Simulation**     | Proteus                                    |
 | **Sensors**        | MH3144 Hall Sensor, Push Button            |
@@ -84,7 +84,7 @@ In hostel settings with limited washing machines and large student populations, 
 
 ## 🎯 Results
 
-- **Accuracy**: ~99% over 200+ iterations
+- **Accuracy**: ~97.5% over 200+ iterations
 - **Failure Cases**: 3 early-stage errors (fixed via reset)
 - **Conclusion**: Efficient and cost-effective hostel utility system
 
@@ -121,4 +121,5 @@ This project is for academic and non-commercial use. Feel free to fork and build
 For queries or collaboration:
 📧 [ayushkumaricky3351@gmail.com]  
 📍 NIT Rourkela, Odisha, India
+
 
